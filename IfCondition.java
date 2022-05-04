@@ -4,7 +4,12 @@ class IfCondition{
 		if(b>a){
 			System.out.println(a+" is greater than "+b);
 		}else{
+
 			System.out.println(b+" is smaller than git change"+a);
+
+			System.out.println(b+" is smaller than "+a);
+			System.out.println("Git changes");
+
 		}
 	}
 }
