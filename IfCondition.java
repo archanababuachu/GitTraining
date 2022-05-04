@@ -5,6 +5,7 @@ class IfCondition{
 			System.out.println(a+" is greater than "+b);
 		}else{
 			System.out.println(b+" is smaller than "+a);
+			System.out.println("Git changes");
 		}
 	}
 }
